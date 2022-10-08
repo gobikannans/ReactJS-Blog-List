@@ -1,0 +1,27 @@
+.blogList-container {
+  width: 100%;
+}
+
+.title-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 99%;
+}
+
+.published-date {
+  color: #9aa5b1;
+  font-family: 'Roboto';
+  padding-right: 20px;
+}
+
+.description {
+  color: #9aa5b1;
+  font-family: 'Roboto';
+  margin-bottom: 30px;
+}
+
+.hr-line {
+  color: #9aa5b1;
+  margin-bottom: 20px;
+}
